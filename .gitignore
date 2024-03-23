@@ -1,0 +1,4 @@
+spreadsheet/
+__pycache__
+*.json
+logs/*
