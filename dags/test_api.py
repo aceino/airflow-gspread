@@ -51,8 +51,4 @@ with DAG(
 
         return df
 
-    @task()
-    def to_csv():
-        import csv
-
     start >> dataframe_to_spreadsheet_task() >> end
