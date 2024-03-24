@@ -1,5 +1,5 @@
 spreadsheet/
 __pycache__
 *.json
-logs/*
 *.csv
+logs/*
